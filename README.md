@@ -1,5 +1,5 @@
 # Phase Dynamics Unwinding (PDU)
-Matlab code to reproduce results in "On the Practical Use of Blaschke Decomposition in Nonstationary Signal Analysis"  (https://arxiv.org/abs/2508.10861)
+Matlab code for the phase dynamics unwinding (PDU) and those to reproduce results in "On the Practical Use of Blaschke Decomposition in Nonstationary Signal Analysis"  (https://arxiv.org/abs/2508.10861)
 
 First, unzipi Archive.zip
 The main PDU code is in the PDU folder.
